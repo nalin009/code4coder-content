@@ -4,9 +4,9 @@ Java is a programming language.
 
 ## Features
 
-* **Object-Oriented**
-* **Platform Independent**
-* **Secure**
+- **Object-Oriented**
+- **Platform Independent**
+- **Secure**
 
 ## Example
 
@@ -16,4 +16,3 @@ public class HelloWorld {
         System.out.println("Hello");
     }
 }
-```
