@@ -1,0 +1,20 @@
+{
+  "id": "04-module-variables-data-types",
+  "title": "Variables Data Types",
+  "emoji": "📦",
+  "totalSections": 15,
+  "sections": [
+    { "id": "01-summary",      "title": "1. Summary"},
+    { "id": "02-introduction",           "title": "2. Introduction"},
+    { "id": "03-clear-definitions",       "title": "3. Clear Definitions"},
+    { "id": "04-core-concept-explanation",     "title": "4. Core Concept Explanation"},    
+    { "id": "05-variations-types-categories",       "title": "5. Variations / Types / Categories"},
+    { "id": "06-memory-and-performance-impact",       "title": "6. Memory & Performance Impact"},
+    { "id": "07-real-world-use-cases",          "title": "7. Real-World Use Cases"},
+    { "id": "08-important-diagrams",       "title": "8. Important Diagrams"},
+    { "id": "09-common-mistakes-and-misconceptions",  "title": "9. Common Mistakes And Misconceptions"},
+    { "id": "10-best-practices",       "title": "10. Best Practices"},
+    { "id": "11-interview-oriented-key-points",       "title": "11. Interview Oriented Key Points"},
+    { "id": "12-conclusion",      "title": "12. Conclusion"}
+  ]
+}

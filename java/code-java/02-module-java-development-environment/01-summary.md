@@ -1,0 +1,9 @@
+## 1 Summary
+
+---
+
+- This chapter laid the essential foundation for `Java development` by exploring the `Java Development Environment` in depth. We dissected the critical components—`JDK`, `JRE`, and `JVM`—and clarified their distinct roles. Understanding that `JDK` is for `development`, `JRE` is for `running applications`, and `JVM` is the `execution` engine is fundamental to troubleshooting and production deployment.
+- We traced the complete journey of a Java program: from human-readable source code (.java) through compilation by javac into platform-independent bytecode (.class), and finally to execution by the JVM, which interprets bytecode and uses JIT compilation for performance optimization. This two-phase model (compile-time and runtime) is what enables Java's revolutionary `"Write Once, Run Anywhere"` promise—a design philosophy unchanged till Java 25.
+- Environment variables (`JAVA_HOME`, `PATH`, `CLASSPATH`) are not mere configuration details—they are the `bridge` between your `operating system` and `Java tools`. Setting them correctly is a prerequisite for smooth development and deployment, especially in production environments where containerization (Docker/Kubernetes) demands precise control over runtime dependencies.
+- The `main()` method, with its exact signature `public static void main(String[] args)`, is the entry point of every Java application. Each keyword has a specific JVM-level reason: `public` ensures external access, `static` enables invocation without instantiation, `void` indicates no return value, and `String[] args` allows command-line input.
+- Java keywords (53 reserved words) and identifier rules enforce language consistency. Naming conventions (PascalCase for classes, camelCase for methods, UPPERCASE for constants) are not enforced by the compiler but are critical for professional, maintainable code.

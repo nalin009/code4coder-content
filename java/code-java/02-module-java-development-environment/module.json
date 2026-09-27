@@ -1,0 +1,30 @@
+{
+  "id": "02-module-java-development-environment",
+  "title": "Java Development Environment",
+  "emoji": "📦",
+  "totalSections": 15,
+  "sections": [
+    { "id": "01-summary", "title": "1. Summary"},
+    { "id": "02-introduction", "title": "2. Introduction"},
+    { "id": "03-clear-definitions", "title": "3. Clear Definitions"},
+    { "id": "04-core-concept-explanation", "title": "4. Core Concept Explanation"},
+    { "id": "05-installing-jdk", "title": "5. Installing JDK."},
+    { "id": "06-setting-environment-variables", "title": "6. Setting Environment Variables"},
+    { "id": "07-ides-overview", "title": "7. IDEs Overview"},
+    { "id": "08-first-java-program", "title": "8. First Java Program"},
+    { "id": "09-understanding-the-main-method", "title": "9. Understanding the main Method"},
+    { "id": "10-program-execution-flow", "title": "10. Program Execution Flow"},
+    { "id": "11-java-keywords", "title": "11. Java Keywords"},
+    { "id": "12-java-identifiers", "title": "12. Java Identifiers"},
+    { "id": "13-java-coding-rules-and-conventions", "title": "13. Java Coding Rules And Conventions"},
+    { "id": "14-variations-or-types-or-categories", "title": "14. Variations Or Types Or Categories"},
+    { "id": "15-memory-and-performance-impact", "title": "15. Memory And Performance Impact"},
+    { "id": "16-real-world-use-cases", "title": "16. Real World Use Cases"},
+    { "id": "17-important-diagrams", "title": "17. Important Diagrams"},
+    { "id": "18-common-mistakes-and-misconceptions", "title": "18. Common Mistakes And Misconceptions"},
+    { "id": "19-best-practices", "title": "19. Best Practices"},
+    { "id": "20-interview-oriented-key-points", "title": "20 Interview Oriented Key Points"},
+    { "id": "21-one-line-exam-or-interview-answer", "title": "21. One Line Exam Or Interview Answer"},
+    { "id": "22-conclusion", "title": "22. Conclusion"}
+  ]
+}
