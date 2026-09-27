@@ -1,4 +1,4 @@
-# Introduction to Java
+## Introduction to Java
 
 Java is a programming language.
 
