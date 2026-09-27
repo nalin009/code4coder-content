@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "id": "java",
+      "title": "Java",
+      "description": "Learn Java programming from fundamentals to Pro concepts.",
+      "path": "java"
+    },
+    {
+      "id": "spring-boot",
+      "title": "Spring Boot",
+      "description": "Build production-ready backend applications with Spring Boot.",
+      "path": "spring-boot"
+    }
+  ]
+}

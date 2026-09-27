@@ -1,0 +1,37 @@
+{
+  "course": {
+    "id": "java",
+    "title": "Java",
+    "description": "Learn Java programming from beginner to professional level."
+  },
+  "levels": [
+    {
+      "id": "beginner",
+      "title": "Beginner",
+      "order": 1,
+      "access": "free",
+      "path": "beginner"
+    },
+    {
+      "id": "intermediate",
+      "title": "Intermediate",
+      "order": 2,
+      "access": "free",
+      "path": "intermediate"
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced",
+      "order": 3,
+      "access": "paid",
+      "path": "advanced"
+    },
+    {
+      "id": "pro",
+      "title": "Pro",
+      "order": 4,
+      "access": "paid",
+      "path": "pro"
+    }
+  ]
+}

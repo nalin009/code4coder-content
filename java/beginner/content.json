@@ -1,0 +1,131 @@
+{
+  "id": "beginner",
+  "label": "Beginner",
+  "emoji": "🌱",
+  "description": "Learn Java fundamentals, OOP, exception handling, multithreading, collections, JDBC, projects and core Java concepts.",
+  "totalModules": 24,
+  "totalSections": 360,
+  "accent": "#f89820",
+  "modules": [
+    {
+      "id": "01-module-introduction-to-programming-and-java",
+      "title": "Introduction to Programming and Java",
+      "totalSections": 15
+    },
+    {
+      "id": "02-module-java-development-environment",
+      "title": "Java Development Environment",
+      "totalSections": 15
+    },
+    {
+      "id": "03-module-basic-java-syntax",
+      "title": "Basic Java Syntax",
+      "totalSections": 15
+    },
+    {
+      "id": "04-module-variables-data-types",
+      "title": "Variables & Data Types",
+      "totalSections": 15
+    },
+    {
+      "id": "05-module-operators",
+      "title": "Operators",
+      "totalSections": 15
+    },
+    {
+      "id": "06-module-decision-making-statements",
+      "title": "Decision Making Statements",
+      "totalSections": 15
+    },
+    {
+      "id": "07-module-looping-statements",
+      "title": "Looping Statements",
+      "totalSections": 15
+    },
+    {
+      "id": "08-module-arrays",
+      "title": "Arrays",
+      "totalSections": 15
+    },
+    {
+      "id": "09-module-strings",
+      "title": "Strings",
+      "totalSections": 15
+    },
+    {
+      "id": "10-module-methods",
+      "title": "Methods",
+      "totalSections": 15
+    },
+    {
+      "id": "11-module-object-oriented-programming",
+      "title": "Object-Oriented Programming (OOP) Concepts",
+      "totalSections": 15
+    },
+    {
+      "id": "12-module-encapsulation",
+      "title": "Encapsulation",
+      "totalSections": 15
+    },
+    {
+      "id": "13-module-inheritance",
+      "title": "Inheritance",
+      "totalSections": 15
+    },
+    {
+      "id": "14-module-polymorphism",
+      "title": "Polymorphism",
+      "totalSections": 15
+    },
+    {
+      "id": "15-module-abstraction",
+      "title": "Abstraction",
+      "totalSections": 15
+    },
+    {
+      "id": "16-module-packages",
+      "title": "Packages",
+      "totalSections": 15
+    },
+    {
+      "id": "17-module-exception-handling",
+      "title": "Exception Handling",
+      "totalSections": 15
+    },
+    {
+      "id": "18-module-multithreading",
+      "title": "Multithreading",
+      "totalSections": 15
+    },
+    {
+      "id": "19-module-file-handling",
+      "title": "File Handling",
+      "totalSections": 15
+    },
+    {
+      "id": "20-module-collections-framework",
+      "title": "Collections Framework",
+      "totalSections": 15
+    },
+    {
+      "id": "21-module-java-8-features",
+      "title": "Java 8 Features",
+      "totalSections": 15
+    },
+    {
+      "id": "22-module-jdbc",
+      "title": "JDBC (Database Connectivity)",
+      "totalSections": 15
+    },
+    {
+      "id": "23-module-basic-java-projects",
+      "title": "Basic Java Projects",
+      "totalSections": 15
+    },
+    {
+      "id": "24-module-interview-and-teaching-preparation",
+      "title": "Interview and Teaching Preparation",
+      "totalSections": 15
+    }
+  ]
+}
