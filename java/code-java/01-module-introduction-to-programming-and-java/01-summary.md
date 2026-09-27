@@ -1,15 +1,19 @@
-Introduction to Java
+# Introduction to Java
 
 Java is a programming language.
 
-Features
+## Features
 
-Object oriented Platform independent Secure
+* **Object-Oriented**
+* **Platform Independent**
+* **Secure**
 
-Example
+## Example
 
+```java
 public class HelloWorld {
-public static void main(String[] args) {
-System.out.println(*Hello*);
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
 }
-}
+```
