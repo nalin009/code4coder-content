@@ -1,6 +1,6 @@
-## 4. Core Concept Explanation
+# 4. Core Concept Explanation
 
-### 4.1 What is Programming?
+## 4.1 What is Programming?
 
 Imagine you want to teach a `robot` to make tea. You would give it step-by-step instructions:
 
@@ -24,7 +24,7 @@ Computers ultimately execute machine instructions represented in binary. Program
 
 ---
 
-### 4.2 What is a Programming Language?
+## 4.2 What is a Programming Language?
 
 A programming language is a tool used to communicate instructions to a computer. Just as humans use English, Hindi, or Spanish to communicate, programmers use languages like Java, Python, or C++ to write instructions for computers.
 
@@ -38,35 +38,35 @@ A programming language is a tool used to communicate instructions to a computer.
 
 ---
 
-### 4.3 Types of Programming Languages
+## 4.3 Types of Programming Languages
 
 Programming languages can be broadly classified based on their level of abstraction from hardware and how programs are translated or executed.
 
-#### 4.3.1 Low-Level Languages
+### 4.3.1 Low-Level Languages
 
-##### Machine Language (Binary)
+#### Machine Language (Binary)
 
 * Consists of **0s** and **1s**.
 * Directly understood by the CPU.
 * Not human-readable.
 * **Example:** `10110000 01100001`
 
-##### Assembly Language
+#### Assembly Language
 
 * Uses symbolic codes (mnemonics) like **ADD**, **MOV**, and **SUB**.
 * Requires an assembler to convert it into machine code.
 * Still hardware-dependent.
 * **Example:** `MOV AX, 5`
 
-##### Why Java Is NOT a Low-Level Language
+#### Why Java Is NOT a Low-Level Language
 
 Java abstracts many hardware details, making it easier for developers to write, understand, and maintain code.
 
-#### 4.3.2 High-Level Languages
+### 4.3.2 High-Level Languages
 
 High-level languages are designed to be easier for humans to read, write, and maintain than low-level languages.
 
-##### Characteristics
+#### Characteristics
 
 * Human-readable syntax.
 * Higher level of abstraction from hardware.
@@ -75,21 +75,21 @@ High-level languages are designed to be easier for humans to read, write, and ma
 
 ---
 
-### 4.4 Further Classification of High-Level Languages
+## 4.4 Further Classification of High-Level Languages
 
-#### 4.4.1 Compiled Languages
+### 4.4.1 Compiled Languages
 
 * Source code is translated into another executable form before or as part of execution.
 * **Examples:** `C`, `C++`
 * **Java:** Java source code is compiled into `bytecode`, not directly into native machine code.
 
-#### 4.4.2 Interpreted Languages
+### 4.4.2 Interpreted Languages
 
 * Program code is executed by an interpreter or runtime environment rather than being directly compiled into native machine code ahead of execution.
 * **Examples:** `Python`, `JavaScript`
 * **Java:** Java bytecode can be interpreted by the `JVM`.
 
-#### 4.4.3 Hybrid Languages
+### 4.4.3 Hybrid Languages
 
 Java is commonly described as a **hybrid language** because its execution combines compilation and runtime execution.
 

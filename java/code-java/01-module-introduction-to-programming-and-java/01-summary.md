@@ -2,13 +2,15 @@
 
 Java is a programming language.
 
+---
+
 ## Features
 
 - **Object-Oriented**
 - **Platform Independent**
 - **Secure**
 
-## Example
+### Example
 
 ```java
 public class HelloWorld {

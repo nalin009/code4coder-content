@@ -1,6 +1,6 @@
-## 5. Why Java Is Unique
+# 5. Why Java Is Unique
 
-### 5.1 Java Uses a Two-Step Process
+## 5.1 Java Uses a Two-Step Process
 
 1. **Compile-time:** Java source code (`.java`) is compiled into `bytecode` (`.class`) by the Java compiler (`javac`).
 
@@ -10,7 +10,7 @@ This approach contributes to Java's `portability` and `performance`.
 
 ---
 
-### 5.2 History of Java
+## 5.2 History of Java
 
 Understanding Java's history helps you appreciate why certain design decisions were made.
 
